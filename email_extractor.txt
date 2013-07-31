@@ -1,0 +1,49 @@
+Data aggregator:
+数据进内存
+
+dump
+结构化存数据库
+solr / MySQL fulltext search support
+
+跟哪个application有关和from的人的关系Houdini的版本
+
+stuem match string
+return
+
+# Outlook engine and exchange, access from the outlook API
+
+TODO:
+1. cluster file to categorize the emails, add an attribute category to the mail item
+2. filter the emails with the file
+3. parse the emails to database
+
+
+On server:
+
+root account:
+hostname:    AppTestServer
+user:              root
+passwd:        laoyao@304
+
+         Mysql database: 
+         Username: root
+         Password: intel123
+
+You can access the database by the following 2 ways:
+1.	url: http://apptestserver.sh.intel.com/phpMyAdmin/
+2.	zxia10x@AppTestServer:~> mysql -uroot -pintel123 
+
+
+Filter:
+
+Delete:
+ci: but save the reply email to ci.
+
+Save:
+Report: performance, test, weekly
+
+Find connection in data
+Yang, Yu
+Liao, Wei
+以application issue root cause -- apptest web
+diagram
